@@ -1,4 +1,6 @@
-# Верстка по макету Photoshop
-### HTML/CSS
-![](https://raw.githubusercontent.com/luschenko/doc_ua/master/doc_ua.png)
+# Верстка landing-page doc.ua 
+
+### HTML/CSS (float)
+
+![](https://raw.githubusercontent.com/luschenko/docua/master/doc_ua.png)
 		
